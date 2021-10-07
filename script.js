@@ -56,7 +56,15 @@ const quizData =[
 		correct: 'a'
 	},
 	{
-		question:'',
+		question:'8. Which of the following is a benefit of mobile patrol  compare to foot patrol',
+		a:'Greater ability to carry equipment',
+		b:'Great ability to chase and catch fleeing criminals',
+		c:'Great ability to closely assess the protected the building ',
+		d:'Great ability to enforce parking law',
+		correct: 'a'
+	},
+	{
+		question:'9. Access control is considered for which types of people',
 		a:'',
 		b:'',
 		c:'',
@@ -71,6 +79,7 @@ const quizData =[
 		d:'',
 		correct: 'a'
 	}
+
 
 
 
