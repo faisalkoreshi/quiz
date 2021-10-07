@@ -65,11 +65,19 @@ const quizData =[
 	},
 	{
 		question:'9. Access control is considered for which types of people',
-		a:'',
-		b:'',
-		c:'',
-		d:'',
-		correct: 'a'
+		a:'Employees',
+		b:'Customer',
+		c:'Everyone entering the premises',
+		d:'The general public',
+		correct: 'c'
+	},
+	{
+		question:'10. Which of the following is true about alarms?',
+		a:'Security guards can easily obtain prompt  back up when needed',
+		b:'Security guard  always work with partners so they can investigate alarm',
+		c:'Security gurds often respond alone and do not have immediate backup',
+		d:'Security guards  only respond to false alarm',
+		correct: 'c'
 	},
 	{
 		question:'',
@@ -79,6 +87,7 @@ const quizData =[
 		d:'',
 		correct: 'a'
 	}
+
 
 
 
