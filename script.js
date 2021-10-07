@@ -80,13 +80,39 @@ const quizData =[
 		correct: 'c'
 	},
 	{
-		question:'',
+		question:'11. Which of the following are possible indicators of a person intoxicated by drug?',
+		a:'Signs of nervousness, body twitching and sweating',
+		b:'A limp right arm',
+		c:'Speaking in a high pitched and loud voice',
+		d:'Increased ability to reason and think rapidly',
+		correct: 'a'
+	},
+	{
+		question:'12.What patterns should be avoided by security guards?',
+		a:'Regularly scheduled rotating shift',
+		b:'Knowing where you are all time and how to summon help',
+		c:'Regular people and their activities on the site',
+		d:'Completing patrols routinely at the same time each day',
+		correct: 'd'
+	},
+	{
+		question:'13. What are the following types of report a security guard may normally complete',
+		a:'Shift logs,incident reports, briefing reports and use of force report',
+		b:'Crown briefs and private information',
+		c:'Timetables needs assessments and recommendation',
+		d:'Executive summary and progress report',
+		correct: 'a'
+	},
+	{
+		question:'14.What words  best describe what is the required regarding statement? ',
 		a:'',
 		b:'',
 		c:'',
 		d:'',
-		correct: 'a'
-	}
+		correct: 'b'
+	},
+	
+	
 
 
 
