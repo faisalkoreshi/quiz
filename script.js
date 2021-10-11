@@ -105,11 +105,35 @@ const quizData =[
 	},
 	{
 		question:'14.What words  best describe what is the required regarding statement? ',
-		a:'',
-		b:'',
-		c:'',
-		d:'',
+		a:'Recorded',
+		b:'Verbatim',
+		c:'Paraphrased',
+		d:'Handwritten',
 		correct: 'b'
+	},
+	{
+		question:'15. What is required of employers  according to the occupational Health & Safety act?',
+		a:'Provide body armour to employees',
+		b:'Provide a reasonable safe and healthy  work environment',
+		c:'Provide higher pay rates  in risky  work environment',
+		d:'Ensure that two guards are assigned  to a site at night time',
+		correct: 'b'
+	},
+	{
+		question:'16. When responding to an alarm and detection a lot of smoke a guard should :',
+		a:'Call the fire department and start search for people inside',
+		b:'Call the fire department and put the fire out',
+		c:'Enter the building to check for trap people',
+		d:'Call the fire department, stay a safe distance keep people back',
+		correct: 'd'
+	},
+	{
+		question:'17. What is the first priority when responding to an emergency? :',
+		a:'Preserve the evidence and ensure the scene does not get contaminated',
+		b:'Gather witness and take statement',
+		c:'Assess hazards  and sure the area is safe to approach',
+		d:'Triage injuries and treat life threatening injuries',
+		correct: 'd'
 	},
 	
 	
