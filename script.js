@@ -133,8 +133,65 @@ const quizData =[
 		b:'Gather witness and take statement',
 		c:'Assess hazards  and sure the area is safe to approach',
 		d:'Triage injuries and treat life threatening injuries',
+		correct: 'c'
+	},
+	{
+		question:'18. What of the following is a failure to provide duty of care ? :',
+		a:'Fail to report  a normal looking car in the parking lot, later found to be a crime scene',
+		b:'Fail to confiscate a barbeque from a balcony at an apartment that later starts a fire',
+		c:'Fail to report a broken window  noticed that turns out  to be the entry for a theft ',
+		d:'Fail to assess the root causes of a fire',
+		correct: 'c'
+	},
+	{
+		question:'19. What should you do preserving a crime scene ? :',
+		a:'Remove broken glass, knives, blood and other safety hazards ',
+		b:'Secure ther perimeter and investigate the scene, personally',
+		c:'Determine the center of the scene and work your way out',
+		d:'Secure the scene and ensure no one enter, touches or move anything until police arrive ',
 		correct: 'd'
 	},
+	{
+		question:'20. What should you do when receiving a bomb threat  ? :',
+		a:'Remove suspicious looking package from the area.',
+		b:'Notify people working in the building there could be a bomb',
+		c:'Immediately call 911',
+		d:'Contact property management , report the matter and follow their instruction',
+		correct: 'd'
+	},
+	{
+		question:'21. What is the statute law? :',
+		a:'Written law',
+		b:'Family law',
+		c:'Provincial law',
+		d:'Case law',
+		correct: 'a'
+	},
+	{
+		question:'22. Which of the following is true in most case of criminal law? :',
+		a:'Assumed guilty until proven innocent',
+		b:'The onus is on the accused to prove innocence',
+		c:'The onus is on the complainant to prove guilt',
+		d:'The burden of proof is on both parties to the offence',
+		correct: 'a'
+	},
+	{
+		question:'23. which of following related to the  court system true:',
+		a:'Ontario Court decisions supersede those of the supreme court of Canada',
+		b:'Municipality have the authority to make laws contradicting provincial law',
+		c:'Lower courts are bound  by the decisions of higher court',
+		d:'Provincial Appeals court are the highest court in the land ',
+		correct: 'c'
+	},
+	{
+		question:'24. which of following related to the  court system true:',
+		a:'Ontario Court decisions supersede those of the supreme court of Canada',
+		b:'Municipality have the authority to make laws contradicting provincial law',
+		c:'Lower courts are bound  by the decisions of higher court',
+		d:'Provincial Appeals court are the highest court in the land ',
+		correct: 'c'
+	},
+	
 	
 	
 
