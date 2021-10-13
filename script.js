@@ -173,7 +173,7 @@ const quizData =[
 		b:'The onus is on the accused to prove innocence',
 		c:'The onus is on the complainant to prove guilt',
 		d:'The burden of proof is on both parties to the offence',
-		correct: 'a'
+		correct: 'c'
 	},
 	{
 		question:'23. which of following related to the  court system true:',
@@ -184,12 +184,28 @@ const quizData =[
 		correct: 'c'
 	},
 	{
-		question:'24. which of following related to the  court system true:',
-		a:'Ontario Court decisions supersede those of the supreme court of Canada',
-		b:'Municipality have the authority to make laws contradicting provincial law',
-		c:'Lower courts are bound  by the decisions of higher court',
-		d:'Provincial Appeals court are the highest court in the land ',
-		correct: 'c'
+		question:'24.When attending Court, what should you bring?',
+		a:'Your notebook and original reports you made',
+		b:'Evidence such as the weapon seized at the time of the offence',
+		c:'A photograph of the subject on the day  they were arrested ',
+		d:'A co-worker for moral support',
+		correct: 'a'
+	},
+	{
+		question:'25.what are two acts governing admissibility of evidence',
+		a:'Ontario civil law and the constitution act ',
+		b:'The criminal code of canada and PIPED',
+		c:'Tort law and the employment standard act ',
+		d:'The canada evidence act and the ontario evidence act',
+		correct: 'd'
+	},
+	{
+		question:'26.Which of the following statements is true for security guards on duty?',
+		a:'You can arrest a person you find committing a criminal offence on/in relation to the site',
+		b:'',
+		c:'',
+		d:'',
+		correct: 'a'
 	},
 	
 	
